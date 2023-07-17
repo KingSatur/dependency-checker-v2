@@ -30,7 +30,7 @@
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
-    "@nestjs/cli": "^8.0.0",
+    "@nestjs/cli": "^10.1.9",
     "@nestjs/testing": "^8.0.0",
     "@types/aws-lambda": "^8.10.84",
     "@types/cache-manager": "^4.0.1",
