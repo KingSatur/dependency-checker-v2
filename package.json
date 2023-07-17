@@ -10,9 +10,9 @@
   },
   "private": true,
   "dependencies": {
-    "@nestjs/common": "^9.0.5",
+    "@nestjs/common": "^8.0.0",
     "@nestjs/config": "^2.2.0",
-    "@nestjs/core": "^9.0.5",
+    "@nestjs/core": "^8.0.0",
     "@types/lodash": "^4.14.184",
     "aws-lambda": "^1.0.7",
     "aws-sdk": "^2.1180.0",
@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
-    "@nestjs/testing": "^9.0.5",
+    "@nestjs/testing": "^8.0.0",
     "@types/aws-lambda": "^8.10.84",
     "@types/cache-manager": "^4.0.1",
     "@types/crypto-js": "^4.1.1",
